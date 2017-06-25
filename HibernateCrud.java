@@ -9,7 +9,7 @@ import java.util.*;
 
 // This class does the 4 basic operations with the database: Create, Read, Update, Delete
 
-public class HibernateCRUD {
+public class HibernateCrud {
 
 	public static void main(String[] args) {
 		// A happy path to start using Hibernate.
